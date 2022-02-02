@@ -1,50 +1,104 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: "Vijayaraghavan Murali's webpage"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a software engineer at [Meta](https://about.facebook.com/meta), working on developing machine leaning based solutions to industry-scale software engineering problems.
+My research aims to address practical problems in software development, such as bug attribution, root cause analysis, code generation/synthesis, etc. using machine learning solutions.
+Recently I am interested in representation learning for various software artifacts common in large scale industrial software development.
+The projects I have worked on have found significant industrial impact at Meta.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<span id="publications">
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Publications
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+0. *Improving Code Autocompletion with Transfer Learning*<br>
+   Wen Zhou, Sonia Kim, Vijayaraghavan Murali, Ari Aye<br>
+   **ICSE SEIP 2022** (to appear as short paper)
+0. *Counterfactual Explanations for Models of Code*<br>
+   Jurgen Cito, Isil Dillig, Vijayaraghavan Murali, Satish Chandra<br>
+   **ICSE SEIP 2022** (to appear)
+0. *Explaining mispredictions of machine learning models using rule induction*<br>
+   Jurgen Cito, Isil Dillig, Sonia Kim, Vijayaraghavan Murali, Satish Chandra<br>
+   **FSE 2021**
+0. *Industry-scale IR-based Bug Localization: A Perspective from Facebook*<br>
+   Vijayaraghavan Murali, Lee Gross, Rebecca Qian, Satish Chandra<br>
+   **ICSE SEIP 2021 - Distinguished Paper award**
+0. *Scalable Statistical Root Cause Analysis on App Telemetry*<br>
+   Vijayaraghavan Murali, Edward Yao, Umang Mathur, Satish Chandra<br>
+   **ICSE SEIP 2021**
+0. *Scaffle: bug localization on millions of files*<br>
+   Michael Pradel, Vijayaraghavan Murali, Rebecca Qian, Mateusz Machalica, Erik Meijer, Satish Chandra<br>
+   **ISSTA 2020**
+0. *Debugging crashes using continuous contrast set mining*<br>
+   Rebecca Qian, Yang Yu, Wonhee Park, Vijayaraghavan Murali, Stephen Fink, Satish Chandra<br>
+   **ICSE SEIP 2020**
+0. *Neural query expansion for code search*<br>
+   Jason Liu, Sonia Kim, Vijayaraghavan Murali, Swarat Chaudhuri, Satish Chandra<br>
+   **MAPL 2019**
+0. *Programmatically Interpretable Reinforcement Learning*<br>
+   Abhinav Verma, Vijayaraghavan Murali, Rishabh Singh, Pushmeet Kohli, Swarat Chaudhuri<br>
+   **ICML 2018**
+0. *Neural Sketch Learning for Conditional Program Generation*<br>
+   Vijayaraghavan Murali, Letao Qi, Swarat Chaudhuri, Chris Jermaine<br>
+   **ICLR 2018**
+0. *Abridging Source Code*<br>
+   Binhang Yuan, Vijayaraghavan Murali, Chris Jermaine<br>
+   **OOPSLA 2017**
+0. *Bayesian Specification Learning for Finding API Usage Errors*<br>
+   Vijayaraghavan Murali, Swarat Chaudhuri, Chris Jermaine<br>
+   **FSE 2017**
+0. *A Path-Sensitively Sliced Control Flow Graph*<br>
+   Joxan Jaffar, Vijayaraghavan Murali<br>
+   **FSE 2014**
+0. *Lazy Symbolic Execution for Enhanced Learning*<br>
+   Duc-Hiep Chu, Joxan Jaffar, Vijayaraghavan Murali<br>
+   **RV 2014**
+0. *A Hybrid Algorithm for Error Trace Explanation*<br>
+   Vijayaraghavan Murali, Nishant Sinha, Emina Torlak, Satish Chandra<br>
+   **VSTTE 2014**
+0. *Boosting Concolic Testing via Interpolation*<br>
+   Joxan Jaffar, Vijayaraghavan Murali, Jorge A. Navas<br>
+   **FSE 2013**
+0. *Path-Sensitive Backward Slicing*<br>
+   Joxan Jaffar, Vijayaraghavan Murali, Jorge A. Navas, Andrew E. Santosa<br>
+   **SAS 2012**
+0. *TRACER: A Symbolic Execution Tool for Verification*<br>
+   Joxan Jaffar, Vijayaraghavan Murali, Jorge A. Navas, Andrew E. Santosa<br>
+   **CAV 2012**
+0. *Towards predictive modeling of message passing communication*<br>
+   Verdi March, Vijayaraghavan Murali, Yong Meng Teo, Simon See, James T. Himer<br>
+   **HPCC 2009**
+{: reversed="reversed"}
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<span id="blogs">
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Blog Posts
 
-**Markdown generator**
+- [Minesweeper automates root cause analysis as a first-line defense against bugs](https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/)
+- [CCSM: Scalable statistical anomaly detection to resolve app crashes faster](https://engineering.fb.com/2019/11/26/developer-tools/ccsm/)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<span id="service">
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+# Service
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- PLDI 2022
+- ISSTA 2020
+- CAV 2019
+- POPL 2015 (Artifact Committee)
+- FSE 2014 (Artifact Committee)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<span id="bio">
+
+# Bio
+
+I have been a software engineer at Meta (Facebook) since 2018, where I work in developer infrastructure.
+Before, I was a Research Scientist (postdoc) at Rice University from 2015-2018, working with [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat) on the Pliny project.
+Prior to that, I was a Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg) (NUS) from 2009-2014, advised by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan).
+I interned at IBM Research India during my Ph.D., working with [Satish Chandra](https://sites.google.com/site/schandraacmorg).
+My Ph.D. background is originally in programming languages and formal methods, but my "ML coach" was [Chris Jermaine](https://www.cs.rice.edu/~cmj4) during my postdoc at Rice.
+I obtained my B.Computing also from NUS in 2009.
+
+My hometown is Chennai in south India. Outside research, I enjoy video games, backyard gardening, and traveling.
