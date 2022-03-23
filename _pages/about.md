@@ -17,12 +17,12 @@ The projects I have worked on have found significant industrial impact at Meta.
 0. *Detecting Privacy-Sensitive Code Changes with Language Modeling*<br>
    Gokalp Demirci, Vijayaraghavan Murali, Imad Ahmad, Rajeev Rao, Gareth Ari Aye<br>
    **MSR 2022 Industry Track** (to appear)
-0. *Improving Code Autocompletion with Transfer Learning*<br>
-   Wen Zhou, Sonia Kim, Vijayaraghavan Murali, Ari Aye<br>
-   **ICSE SEIP 2022** (to appear as short paper)
 0. *Counterfactual Explanations for Models of Code*<br>
    Jurgen Cito, Isil Dillig, Vijayaraghavan Murali, Satish Chandra<br>
    **ICSE SEIP 2022** (to appear)
+0. *Improving Code Autocompletion with Transfer Learning*<br>
+   Wen Zhou, Sonia Kim, Vijayaraghavan Murali, Ari Aye<br>
+   **ICSE SEIP 2022** (to appear as short paper)
 0. *Explaining mispredictions of machine learning models using rule induction*<br>
    Jurgen Cito, Isil Dillig, Sonia Kim, Vijayaraghavan Murali, Satish Chandra<br>
    **FSE 2021**
