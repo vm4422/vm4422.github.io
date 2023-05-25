@@ -5,10 +5,10 @@ excerpt: "Vijayaraghavan Murali's webpage"
 author_profile: true
 ---
 
-I am a software engineer at [Meta](https://about.facebook.com/meta), working on developing machine leaning based solutions to industry-scale software engineering problems.
-My research aims to address practical problems in software development, such as bug attribution, root cause analysis, code generation/synthesis, etc. using machine learning solutions.
-Recently I am interested in representation learning for various software artifacts common in large scale industrial software development.
+I am an applied ML and software engineering researcher at [Meta](https://about.facebook.com/meta), working on developing AI-based solutions to industry-scale software engineering problems.
+My research aims to address practical problems in software development, such as code generation/synthesis, code review, bug attribution, root cause analysis, etc. using machine learning solutions.
 The projects I have worked on have found significant industrial impact at Meta.
+Meta CEO Mark Zuckerberg had highlighted CodeCompose in his public <a href=https://www.facebook.com/zuck/posts/pfbid037grHPNrrW3FfH2gmLsy8YdUJ8Mvx7fHLDsZjLXiog3sed5nAfShTPFdYwWZojSx5l>Facebook</a> and <a href=https://www.instagram.com/p/CsY3zLILjRy/>Instagram</a> channels as one of the company-level investments in AI.
 
 <span id="publications">
 
@@ -104,10 +104,10 @@ The projects I have worked on have found significant industrial impact at Meta.
 # Bio
 
 I have been a software engineer at Meta (Facebook) since 2018, where I work in developer infrastructure.
-Before, I was a Research Scientist (postdoc) at Rice University from 2015-2018, working with [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat) on the Pliny project.
+Before, I was a Research Scientist (postdoc) at Rice University from 2015-2018, working with [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat) and [Chris Jermaine](https://www.cs.rice.edu/~cmj4) on the Pliny project.
 Prior to that, I was a Ph.D. student at the [National University of Singapore](https://www.comp.nus.edu.sg) (NUS) from 2009-2014, advised by [Joxan Jaffar](https://www.comp.nus.edu.sg/~joxan).
 I interned at IBM Research India during my Ph.D., working with [Satish Chandra](https://sites.google.com/site/schandraacmorg).
-My Ph.D. background is originally in programming languages and formal methods, but my "ML coach" was [Chris Jermaine](https://www.cs.rice.edu/~cmj4) during my postdoc at Rice.
+My Ph.D. background is originally in programming languages and formal methods, and I became familiar with machine learning during my postdoc at Rice.
 I obtained my B.Computing also from NUS in 2009.
 
 My hometown is Chennai in south India. Outside research, I enjoy video games, backyard gardening, and traveling.
