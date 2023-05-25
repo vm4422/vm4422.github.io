@@ -14,6 +14,9 @@ The projects I have worked on have found significant industrial impact at Meta.
 
 # Publications
 
+0. *CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring*<br>
+   Vijayaraghavan Murali, Chandra Maddila, Imad Ahmad, Michael Bolin, Daniel Cheng, Negar Ghorbani, Renuka Fernandez, Nachiappan Nagappan<br>
+   <a href=https://arxiv.org/abs/2305.12050>(arxiv)</a>
 0. *Learning to Learn to Predict Performance Regressions in Production at Meta*<br>
    Moritz Beller, Hongyu Li, Vivek Nair, Vijayaraghavan Murali, Imad Ahmad, Jürgen Cito, Drew Carlson, Gareth Ari Aye, Wes Dyer<br>
    **AST 2023**
