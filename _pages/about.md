@@ -8,7 +8,7 @@ author_profile: true
 I am an applied ML and software engineering researcher at [Meta](https://about.facebook.com/meta), working on developing AI-based solutions to industry-scale software engineering problems.
 My research aims to address practical problems in software development, such as code generation/synthesis, code review, bug attribution, root cause analysis, etc. using machine learning solutions.
 The projects I have worked on have found significant industrial impact at Meta.
-Meta CEO Mark Zuckerberg had highlighted CodeCompose in his public <a href=https://www.facebook.com/zuck/posts/pfbid037grHPNrrW3FfH2gmLsy8YdUJ8Mvx7fHLDsZjLXiog3sed5nAfShTPFdYwWZojSx5l>Facebook</a> and <a href=https://www.instagram.com/p/CsY3zLILjRy/>Instagram</a> channels as one of the company-level investments in AI.
+Meta CEO Mark Zuckerberg had highlighted CodeCompose in his public [Facebook](https://www.facebook.com/zuck/posts/pfbid037grHPNrrW3FfH2gmLsy8YdUJ8Mvx7fHLDsZjLXiog3sed5nAfShTPFdYwWZojSx5l) and [Instagram](https://www.instagram.com/p/CsY3zLILjRy) channels as one of the company-level investments in AI.
 
 <span id="publications">
 
@@ -16,7 +16,7 @@ Meta CEO Mark Zuckerberg had highlighted CodeCompose in his public <a href=https
 
 0. *CodeCompose: A Large-Scale Industrial Deployment of AI-assisted Code Authoring*<br>
    Vijayaraghavan Murali, Chandra Maddila, Imad Ahmad, Michael Bolin, Daniel Cheng, Negar Ghorbani, Renuka Fernandez, Nachiappan Nagappan<br>
-   <a href=https://arxiv.org/abs/2305.12050>(arxiv)</a>
+   [arxiv](https://arxiv.org/abs/2305.12050)</a>
 0. *Learning to Learn to Predict Performance Regressions in Production at Meta*<br>
    Moritz Beller, Hongyu Li, Vivek Nair, Vijayaraghavan Murali, Imad Ahmad, Jürgen Cito, Drew Carlson, Gareth Ari Aye, Wes Dyer<br>
    **AST 2023**
