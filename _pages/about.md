@@ -13,6 +13,12 @@ The projects I have worked on have found significant industrial impact at Meta.
 
 # Publications
 
+0. *Moving Faster and Reducing Risk: Using LLMs in Release Deployment*<br>
+   Rui Abreu, Vijayaraghavan Murali, Peter C Rigby, Chandra Maddila, Weiyan Sun, Jun Ge, Kaavya Chinniah, Audris Mockus, Megh Mehta, Nachiappan Nagappan<br>
+   ([arxiv](https://arxiv.org/abs/2410.06351))
+0. *AI-Assisted SQL Authoring at Industry Scale*<br>
+   Chandra Maddila, Negar Ghorbani, Kosay Jabre, Vijayaraghavan Murali, Edwin Kim, Parth Thakkar, Nikolay Pavlovich Laptev, Olivia Harman, Diana Hsu, Rui Abreu, Peter C. Rigby<br>
+   ([arxiv](https://arxiv.org/abs/2407.13280))
 0. *Multi-line AI-assisted Code Authoring*<br>
    Omer Dunay, Daniel Cheng, Adam Tait, Parth Thakkar, Peter C. Rigby, Andy Chiu, Imad Ahmad, Arun Ganesan, Chandra Maddila, Vijayaraghavan Murali, Ali Tayyebi, Nachiappan Nagappan<br>
    **FSE 2024 Industry Track** ([arxiv](https://arxiv.org/abs/2402.04141))
