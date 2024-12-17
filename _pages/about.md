@@ -15,13 +15,13 @@ The projects I have worked on have found significant industrial impact at Meta.
 
 0. *Moving Faster and Reducing Risk: Using LLMs in Release Deployment*<br>
    Rui Abreu, Vijayaraghavan Murali, Peter C Rigby, Chandra Maddila, Weiyan Sun, Jun Ge, Kaavya Chinniah, Audris Mockus, Megh Mehta, Nachiappan Nagappan<br>
-   ([arxiv](https://arxiv.org/abs/2410.06351))
+   **ICSE 2025 (SEIP)** ([arxiv](https://arxiv.org/abs/2410.06351))
 0. *AI-Assisted SQL Authoring at Industry Scale*<br>
    Chandra Maddila, Negar Ghorbani, Kosay Jabre, Vijayaraghavan Murali, Edwin Kim, Parth Thakkar, Nikolay Pavlovich Laptev, Olivia Harman, Diana Hsu, Rui Abreu, Peter C. Rigby<br>
-   ([arxiv](https://arxiv.org/abs/2407.13280))
+   **ICSE 2025 (SEIP)** ([arxiv](https://arxiv.org/abs/2407.13280))
 0. *Multi-line AI-assisted Code Authoring*<br>
    Omer Dunay, Daniel Cheng, Adam Tait, Parth Thakkar, Peter C. Rigby, Andy Chiu, Imad Ahmad, Arun Ganesan, Chandra Maddila, Vijayaraghavan Murali, Ali Tayyebi, Nachiappan Nagappan<br>
-   **FSE 2024 Industry Track** ([arxiv](https://arxiv.org/abs/2402.04141))
+   **FSE 2024 (Industry Track)** ([arxiv](https://arxiv.org/abs/2402.04141))
 0. *AI-assisted Code Authoring at Scale: Fine-tuning, deploying, and mixed methods evaluation*<br>
    Vijayaraghavan Murali, Chandra Maddila, Imad Ahmad, Michael Bolin, Daniel Cheng, Negar Ghorbani, Renuka Fernandez, Nachiappan Nagappan, Peter C. Rigby<br>
    **FSE 2024** ([arxiv](https://arxiv.org/abs/2305.12050)) - Highlight by Meta CEO Mark Zuckerberg [FB](https://www.facebook.com/zuck/posts/pfbid037grHPNrrW3FfH2gmLsy8YdUJ8Mvx7fHLDsZjLXiog3sed5nAfShTPFdYwWZojSx5l)/[IG](https://www.instagram.com/p/CsY3zLILjRy)
@@ -30,28 +30,28 @@ The projects I have worked on have found significant industrial impact at Meta.
    **AST 2023**
 0. *Detecting Privacy-Sensitive Code Changes with Language Modeling*<br>
    Gokalp Demirci, Vijayaraghavan Murali, Imad Ahmad, Rajeev Rao, Gareth Ari Aye<br>
-   **MSR 2022 Industry Track**
+   **MSR 2022 (Industry Track)**
 0. *Counterfactual Explanations for Models of Code*<br>
    Jurgen Cito, Isil Dillig, Vijayaraghavan Murali, Satish Chandra<br>
-   **ICSE SEIP 2022**
+   **ICSE 2022 (SEIP)**
 0. *Improving Code Autocompletion with Transfer Learning*<br>
    Wen Zhou, Sonia Kim, Vijayaraghavan Murali, Ari Aye<br>
-   **ICSE SEIP 2022**
+   **ICSE 2022 (SEIP)**
 0. *Explaining mispredictions of machine learning models using rule induction*<br>
    Jurgen Cito, Isil Dillig, Sonia Kim, Vijayaraghavan Murali, Satish Chandra<br>
    **FSE 2021**
 0. *Industry-scale IR-based Bug Localization: A Perspective from Facebook*<br>
    Vijayaraghavan Murali, Lee Gross, Rebecca Qian, Satish Chandra<br>
-   **ICSE SEIP 2021 - Distinguished Paper award**
+   **ICSE 2021 (SEIP) - Distinguished Paper award**
 0. *Scalable Statistical Root Cause Analysis on App Telemetry*<br>
    Vijayaraghavan Murali, Edward Yao, Umang Mathur, Satish Chandra<br>
-   **ICSE SEIP 2021**
+   **ICSE 2021 (SEIP)**
 0. *Scaffle: bug localization on millions of files*<br>
    Michael Pradel, Vijayaraghavan Murali, Rebecca Qian, Mateusz Machalica, Erik Meijer, Satish Chandra<br>
    **ISSTA 2020**
 0. *Debugging crashes using continuous contrast set mining*<br>
    Rebecca Qian, Yang Yu, Wonhee Park, Vijayaraghavan Murali, Stephen Fink, Satish Chandra<br>
-   **ICSE SEIP 2020**
+   **ICSE 2020 (SEIP)**
 0. *Neural query expansion for code search*<br>
    Jason Liu, Sonia Kim, Vijayaraghavan Murali, Swarat Chaudhuri, Satish Chandra<br>
    **MAPL 2019**
