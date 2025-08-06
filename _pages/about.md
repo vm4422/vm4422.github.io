@@ -13,6 +13,12 @@ The projects I have worked on have found significant industrial impact at Meta.
 
 # Publications
 
+0. *Agentic Program Repair from Test Failures at Scale: A Neuro-symbolic approach with static analysis and test execution feedback*<br>
+   Chandra Maddila, Adam Tait, Claire Chang, Daniel Cheng, Nauman Ahmad, Vijayaraghavan Murali, Marshall Roch, Arnaud Avondet, Aaron Meltzer, Victor Montalvao, Michael Hopko, Chris Waterson, Parth Thakkar, Renuka Fernandez, Kristian Kristensen, Sivan Barzily, Sherry Chen, Rui Abreu, Nachiappan Nagappan, Payam Shodjai, Killian Murphy, James Everingham, Aparna Ramani, Peter C. Rigby<br>
+   [arxiv](https://arxiv.org/abs/2507.18755) (2025)
+0. *AI-Assisted Fixes to Code Review Comments at Scale*<br>
+   Chandra Maddila, Negar Ghorbani, James Saindon, Parth Thakkar, Vijayaraghavan Murali, Rui Abreu, Jingyue Shen, Brian Zhou, Nachiappan Nagappan, Peter C. Rigby<br>
+   [arxiv](https://arxiv.org/abs/2507.13499) (2025)
 0. *Moving Faster and Reducing Risk: Using LLMs in Release Deployment*<br>
    Rui Abreu, Vijayaraghavan Murali, Peter C Rigby, Chandra Maddila, Weiyan Sun, Jun Ge, Kaavya Chinniah, Audris Mockus, Megh Mehta, Nachiappan Nagappan<br>
    **ICSE 2025 (SEIP) - Distinguished Paper Award** ([arxiv](https://arxiv.org/abs/2410.06351))
